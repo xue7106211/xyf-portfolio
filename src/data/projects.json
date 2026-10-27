@@ -1,0 +1,334 @@
+[
+  {
+    "slug": "hyperos-design-token-platform",
+    "title_zh": "HyperOS Design Token 中心化管理平台",
+    "title_en": "HyperOS Design Token Management Platform",
+    "summary_zh": "Token 编辑、分组、多选、Changelog、语法高亮与双主题；累计沉淀/管理 600+ OS4 Token。",
+    "summary_en": "Token editing, grouping, multi-select, changelog, syntax highlighting, dual themes; 600+ OS4 tokens managed.",
+    "role": "Design Engineer",
+    "tags": [
+      "Design Token",
+      "HyperOS",
+      "Design Engineering"
+    ],
+    "metrics": [
+      "600+ OS4 Token"
+    ],
+    "links": [
+      {
+        "label": "Live",
+        "url": "https://hyperostoken.netlify.app/"
+      },
+      {
+        "label": "GitHub",
+        "url": "https://github.com/xue7106211/design-token-viewer"
+      }
+    ],
+    "status": "shipped",
+    "confidentiality": "Public URL listed in career narrative; avoid OS5 internal scheme details beyond public narrative"
+  },
+  {
+    "slug": "hyperos-component-slots",
+    "title_zh": "HyperOS 组件原子化与插槽",
+    "title_en": "HyperOS Component Atomization & Slots",
+    "summary_zh": "材质与内容分离；OS4 引入 Slots 重构容器类组件；近手浮窗算法级锚定规则与可交互 Demo。",
+    "summary_en": "Separate material and content; OS4 slots for containers; near-hand popover anchoring rules with interactive demo.",
+    "role": "Design Engineer",
+    "tags": [
+      "Components",
+      "Slots",
+      "HyperOS"
+    ],
+    "metrics": [],
+    "links": [
+      {
+        "label": "Popover demo",
+        "url": "https://hyperos-popover.netlify.app/"
+      }
+    ],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "hyperos-figma-plugins",
+    "title_zh": "HyperOS Figma 插件系列",
+    "title_en": "HyperOS Figma Plugin Suite",
+    "summary_zh": "玻璃材质/混色模糊；Material 插件灌入材质 4 组（L3/L4，深浅色）；图层语义化命名服务 OS4 库全量图层。",
+    "summary_en": "Glass/blur materials; Material plugin with 4 material sets (L3/L4, light/dark); semantic layer naming for full OS4 library.",
+    "role": "Design Engineer",
+    "tags": [
+      "Figma Plugin",
+      "HyperOS"
+    ],
+    "metrics": [
+      "预估百万 Node 级别"
+    ],
+    "links": [
+      {
+        "label": "figma-token-organizer",
+        "url": "https://github.com/xue7106211/figma-token-organizer"
+      },
+      {
+        "label": "HyperDev",
+        "url": "https://github.com/xue7106211/HyperDev"
+      },
+      {
+        "label": "FrameInfo",
+        "url": "https://github.com/xue7106211/FrameInfo"
+      }
+    ],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "hyperos-multi-device-skill",
+    "title_zh": "HyperOS 多端适配 Skill",
+    "title_en": "HyperOS Multi-Device Adaptation Skill",
+    "summary_zh": "基于 Figma MCP + Agent，手机稿适配 Fold / Pad：判断、组件映射、布局执行与验收；支持 Claude Code / Codex 等。",
+    "summary_en": "Figma MCP + Agent skill: adapt phone mocks to Fold/Pad—judgment, component mapping, layout, QA; Claude Code/Codex supported.",
+    "role": "Design Engineer",
+    "tags": [
+      "Agent Skill",
+      "MCP",
+      "Multi-device"
+    ],
+    "metrics": [],
+    "links": [
+      {
+        "label": "allen-skills",
+        "url": "https://github.com/xue7106211/allen-skills"
+      }
+    ],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "figma-to-lark-automation",
+    "title_zh": "Figma To Lark 文档自动化",
+    "title_en": "Figma → Feishu Doc Automation",
+    "summary_zh": "基于 MCP，从 Figma → AI 大模型 → 飞书，完整自动化理解设计/变量/组件规格。",
+    "summary_en": "MCP-based pipeline: Figma → LLM → Feishu for automated understanding of design/variables/component specs.",
+    "role": "Design Engineer",
+    "tags": [
+      "MCP",
+      "Automation",
+      "Feishu"
+    ],
+    "metrics": [],
+    "links": [
+      {
+        "label": "Figma-MCP-Test",
+        "url": "https://github.com/xue7106211/Figma-MCP-Test"
+      }
+    ],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "hyperos-rag-bot",
+    "title_zh": "HyperOSDesign RAG 飞书机器人",
+    "title_en": "HyperOSDesign RAG Feishu Bot",
+    "summary_zh": "基于 Mify 构建 RAG 知识库；飞书机器人 HyperOSDesign 绑定工作流接口做智能问答。",
+    "summary_en": "Mify-based RAG knowledge base; Feishu bot HyperOSDesign bound to workflow APIs for Q&A.",
+    "role": "Design Engineer",
+    "tags": [
+      "RAG",
+      "Agent",
+      "Feishu"
+    ],
+    "metrics": [],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": "Internal Xiaomi Feishu bot name/platform—keep high-level only"
+  },
+  {
+    "slug": "baidu-content-ecosystem-ds",
+    "title_zh": "百度内容生态设计系统",
+    "title_en": "Baidu Content-Ecosystem Design System",
+    "summary_zh": "内容生态 Token 三层体系、组件 Props 对齐、插槽化、图标 NPM 工程化、工作流驱动文档。",
+    "summary_en": "Three-layer tokens, props alignment, slots, icon NPM packaging, workflow-driven documentation.",
+    "role": "Design System Builder",
+    "tags": [
+      "Design System",
+      "Design Token",
+      "Baidu MEUX"
+    ],
+    "metrics": [],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "kuaishou-design-system",
+    "title_zh": "快手企业服务 Design System",
+    "title_en": "Kuaishou Enterprise Design System",
+    "summary_zh": "企服 DS 主 R：38+ 基础组件、三级 Token、NPM Token Library、Supernova+Storybook 文档；5+ 业务线 / 30+ 平台；组件分离率 0.56%。",
+    "summary_en": "Enterprise DS lead: 38+ components, 3-tier tokens, NPM Token Library, Supernova+Storybook; 5+ lines / 30+ platforms; 0.56% detach rate.",
+    "role": "主 R / Design System Lead",
+    "tags": [
+      "Design System",
+      "DesignOps",
+      "Kuaishou"
+    ],
+    "metrics": [
+      "38+ 基础组件",
+      "5+ 业务线",
+      "30+ 产品平台",
+      "组件分离率 0.56%"
+    ],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "feishu-universe-design",
+    "title_zh": "飞书 Universe Design / DS 官网",
+    "title_en": "Feishu Universe Design / DS Website",
+    "summary_zh": "设计飞书第一版 DS 官网；贡献组件与规范；撰写快捷键、Pointer、触控板、iPadOS 快捷键等规范。",
+    "summary_en": "Designed first Feishu DS website; contributed components/specs including shortcuts, Pointer, trackpad, iPadOS shortcuts.",
+    "role": "UX Designer",
+    "tags": [
+      "Design System",
+      "Feishu",
+      "Documentation"
+    ],
+    "metrics": [
+      "撰写 DS 规范 4 篇"
+    ],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "feishu-task",
+    "title_zh": "飞书任务",
+    "title_en": "Feishu / Lark Task",
+    "summary_zh": "飞书套件核心任务模块全流程设计：用户洞察、设计策略、业务组件与三端交付；MVP→1.0→2.0→IG。",
+    "summary_en": "End-to-end design for Feishu Task: research, strategy, business components, three platforms; MVP→1.0→2.0→IG.",
+    "role": "体验设计师 / 业务接口人",
+    "tags": [
+      "Product Design",
+      "Feishu",
+      "Collaboration"
+    ],
+    "metrics": [
+      "MVP 2020.12",
+      "1.0 2021.1–4",
+      "2.0 2021.5–6"
+    ],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "feishu-5-0",
+    "title_zh": "飞书 5.0（IG）",
+    "title_en": "Feishu 5.0 (IG)",
+    "summary_zh": "参与信息架构与本地化设计；负责任务三端与任务/日历深色模式；卡片化与研发交付分类。",
+    "summary_en": "IA and localization; Task on three platforms plus Task/Calendar dark mode; card UI and eng handoff taxonomy.",
+    "role": "UX Designer",
+    "tags": [
+      "Visual Redesign",
+      "Feishu"
+    ],
+    "metrics": [],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "feishu-ipados",
+    "title_zh": "飞书 Design for iPadOS",
+    "title_en": "Feishu Design for iPadOS",
+    "summary_zh": "核心参与者；输出 Pointer/快捷键/触控板/模态适配四篇规范；团队结果含 App Store 推荐与苹果发布会。",
+    "summary_en": "Core contributor; four specs (Pointer, shortcuts, trackpad, modal); team outcomes include App Store feature and Apple event.",
+    "role": "体验设计师（核心参与者）",
+    "tags": [
+      "iPadOS",
+      "Specs",
+      "Feishu"
+    ],
+    "metrics": [
+      "输出四篇规范与指南"
+    ],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "feishu-design-thinking",
+    "title_zh": "飞书工作坊 · Lark Design Thinking",
+    "title_en": "Feishu / Lark Design Thinking Workshops",
+    "summary_zh": "规划筹备工作坊；沉淀 20+ 方法工具包与 Design Work Shop 101；选入 Lark 品质手册。",
+    "summary_en": "Planned workshops; 20+ method toolkit and Design Work Shop 101; included in Lark quality handbook.",
+    "role": "主导 / 共创",
+    "tags": [
+      "Design Thinking",
+      "Workshop"
+    ],
+    "metrics": [
+      "20+ 设计方法工具包"
+    ],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  },
+  {
+    "slug": "microsoft-text-to-infographic",
+    "title_zh": "微软：语义文本转 Infographic",
+    "title_en": "Microsoft: Semantic Text to Infographic",
+    "summary_zh": "在微软亚洲研究院设计语义文本到 Infographic 的智能转换产品/服务；细节因保密未公开。",
+    "summary_en": "At MSRA, designed semantic-text-to-Infographic product/service; details confidential.",
+    "role": "UX & AI Design Intern",
+    "tags": [
+      "AI",
+      "Infographic",
+      "Internship"
+    ],
+    "metrics": [],
+    "links": [
+      {
+        "label": "Related MSR project",
+        "url": "https://www.microsoft.com/en-us/research/project/text-to-viz/"
+      }
+    ],
+    "status": "shipped",
+    "confidentiality": "NDA / unpublished papers—no internal details"
+  },
+  {
+    "slug": "ibm-ux-internship",
+    "title_zh": "IBM UX Design Internship",
+    "title_en": "IBM UX Design Internship",
+    "summary_zh": "IBM 客户体验与创新中心 18 周实习；企业概念与 Design Thinking 工作坊；NDA 限制细节。",
+    "summary_en": "18-week internship at IBM CEIC; enterprise concept and DT workshops; NDA limits detail.",
+    "role": "UX Design Intern",
+    "tags": [
+      "Internship",
+      "Design Thinking",
+      "Service Design"
+    ],
+    "metrics": [
+      "18 weeks",
+      "2 EDT badges"
+    ],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": "NDA—no product specifics"
+  },
+  {
+    "slug": "lotus-service-design",
+    "title_zh": "易初莲花校园超市服务设计",
+    "title_en": "Lotus Campus Supermarket Service Design",
+    "summary_zh": "2018 与易初莲花合作提升汕头大学校园超市购物体验；实地研究后两月内重设系统方案。研究生阶段另获 2019 iF 服务设计奖（自我介绍；本页未写获奖绑定）。",
+    "summary_en": "2018 Lotus collaboration improving Shantou University campus supermarket UX; system redesign in two months after field study. Separately: 2019 iF Service Design award noted on self-intro (not linked on this page).",
+    "role": "Service Design / UX",
+    "tags": [
+      "Service Design",
+      "Student"
+    ],
+    "metrics": [],
+    "links": [],
+    "status": "shipped",
+    "confidentiality": null
+  }
+]

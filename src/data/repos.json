@@ -1,0 +1,177 @@
+[
+  {
+    "name": "allen-skills",
+    "description": "Allen 的 Agent Skills monorepo",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/allen-skills",
+    "updated": "2026-10-27T01:30:36Z"
+  },
+  {
+    "name": "design-token-viewer",
+    "description": "",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/design-token-viewer",
+    "updated": "2026-10-26T08:30:20Z"
+  },
+  {
+    "name": "figma-token-organizer",
+    "description": "",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/figma-token-organizer",
+    "updated": "2026-10-25T07:05:09Z"
+  },
+  {
+    "name": "hyperos-design-system",
+    "description": "",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/hyperos-design-system",
+    "updated": "2026-10-22T12:54:49Z"
+  },
+  {
+    "name": "hyperos-visual",
+    "description": "HyperOS design platform overview as a single local HTML page",
+    "language": "HTML",
+    "url": "https://github.com/xue7106211/hyperos-visual",
+    "updated": "2026-10-16T03:36:32Z"
+  },
+  {
+    "name": "hyperos-design-guidline",
+    "description": "一起来写规范吧",
+    "language": "MDX",
+    "url": "https://github.com/xue7106211/hyperos-design-guidline",
+    "updated": "2026-10-08T02:24:57Z"
+  },
+  {
+    "name": "hyperos-requirement-priority",
+    "description": "HyperOS 设计系统需求价值评估网站",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/hyperos-requirement-priority",
+    "updated": "2026-08-20T01:56:13Z"
+  },
+  {
+    "name": "station-zero",
+    "description": "Station Zero 是一个高清观影决策系统，帮助用户判断一部片值不值得看、哪里能合法看、哪个高清版本最值得看。",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/station-zero",
+    "updated": "2026-09-18T11:08:27Z"
+  },
+  {
+    "name": "hyperos-breakpoint",
+    "description": "MIUI Fork clone (HyperOS breakpoint explorer)",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/hyperos-breakpoint",
+    "updated": "2026-07-30T03:45:48Z"
+  },
+  {
+    "name": "sync-repo-docs",
+    "description": "Cursor skill for auditing and synchronizing repository documentation, references, and dependency descriptions",
+    "language": "",
+    "url": "https://github.com/xue7106211/sync-repo-docs",
+    "updated": "2026-07-22T13:24:33Z"
+  },
+  {
+    "name": "design-clone",
+    "description": "High-fidelity webpage clone skill merging Design DNA and Surface Recon",
+    "language": "JavaScript",
+    "url": "https://github.com/xue7106211/design-clone",
+    "updated": "2026-07-22T13:24:33Z"
+  },
+  {
+    "name": "de-tools",
+    "description": "",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/de-tools",
+    "updated": "2026-06-04T03:39:00Z"
+  },
+  {
+    "name": "auto_design_agent",
+    "description": "",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/auto_design_agent",
+    "updated": "2026-06-03T06:42:40Z"
+  },
+  {
+    "name": "figma-remote-rename",
+    "description": "",
+    "language": "HTML",
+    "url": "https://github.com/xue7106211/figma-remote-rename",
+    "updated": "2026-04-03T02:55:01Z"
+  },
+  {
+    "name": "ds-to-md-compiler",
+    "description": "",
+    "language": "",
+    "url": "https://github.com/xue7106211/ds-to-md-compiler",
+    "updated": "2026-03-10T01:20:06Z"
+  },
+  {
+    "name": "figma-to-guides",
+    "description": "",
+    "language": "",
+    "url": "https://github.com/xue7106211/figma-to-guides",
+    "updated": "2026-03-04T08:56:11Z"
+  },
+  {
+    "name": "hyperos-popover",
+    "description": "popover组件弹出策略",
+    "language": "JavaScript",
+    "url": "https://github.com/xue7106211/hyperos-popover",
+    "updated": "2026-01-06T01:57:37Z"
+  },
+  {
+    "name": "HyperBox",
+    "description": "HyperOS3 样式工具",
+    "language": "TypeScript",
+    "url": "https://github.com/xue7106211/HyperBox",
+    "updated": "2025-12-22T02:06:58Z"
+  },
+  {
+    "name": "HyperDev",
+    "description": "用于研发查看 Glass 的 Dev 插件",
+    "language": "HTML",
+    "url": "https://github.com/xue7106211/HyperDev",
+    "updated": "2025-12-11T01:42:50Z"
+  },
+  {
+    "name": "FrameInfo",
+    "description": "获取 FrameInfo 信息，用于 GlassWeb 网站使用",
+    "language": "HTML",
+    "url": "https://github.com/xue7106211/FrameInfo",
+    "updated": "2025-11-26T01:41:48Z"
+  },
+  {
+    "name": "Hyper-Dev",
+    "description": "用于研发查看具体的 Glass 参数",
+    "language": "",
+    "url": "https://github.com/xue7106211/Hyper-Dev",
+    "updated": "2025-11-18T10:10:42Z"
+  },
+  {
+    "name": "Figma-MCP-Test",
+    "description": "Figma2Lark自动化生产",
+    "language": "CSS",
+    "url": "https://github.com/xue7106211/Figma-MCP-Test",
+    "updated": "2025-10-27T13:31:04Z"
+  },
+  {
+    "name": "Mi-Plugin",
+    "description": "Mi插件流程尝试",
+    "language": "HTML",
+    "url": "https://github.com/xue7106211/Mi-Plugin",
+    "updated": "2025-10-22T13:24:55Z"
+  },
+  {
+    "name": "design_token",
+    "description": "企业服务设计样式库",
+    "language": "",
+    "url": "https://github.com/xue7106211/design_token",
+    "updated": "2022-10-20T05:56:08Z"
+  },
+  {
+    "name": "designtoken",
+    "description": "",
+    "language": "",
+    "url": "https://github.com/xue7106211/designtoken",
+    "updated": "2022-10-20T03:13:00Z"
+  }
+]
