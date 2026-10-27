@@ -1,95 +1,84 @@
-# 薛一飞 / Allen Xue — Design Engineering Portfolio
+# 薛一飞设计工程作品集
 
-Bilingual (中文 / English) portfolio for hiring managers and peers in design systems / design engineering.
+**状态：** 活跃 · 生产主页：[https://xyf.design](https://xyf.design)
 
-**Positioning:** a designer who ships code — tokens, component libraries, Figma plugins, design-to-code, and AI agent workflows.
+Allen Xue（薛一飞）的个人作品集站点：面向招聘方与设计工程同行，展示 design systems / design engineering 相关作品与经历。
 
-## Stack
+**定位：** 能写代码的设计师 — tokens、组件库、Figma 插件、design-to-code、以及 AI agent 工作流。
 
-- Vite + React 19 + TypeScript
-- Tailwind CSS v4
-- [affectUI](https://www.affectui.com/components) **free** components (MIT), installed via shadcn registry
-- React Router (SPA)
+## 是什么 / 不是什么
 
-### affectUI usage
+| 是 | 不是 |
+|----|------|
+| 个人作品集（中英双语） | 设计系统或组件库产品本身 |
+| 静态前端站点（Vite SPA） | 后端服务、CMS、或内容管理后台 |
+| 公开可部署的展示页 | 内部工具、私有文档站 |
 
-Installed free components (Pro skipped; no purchase):
+事实与可发布范围以 `content/` 与 `src/data/` 为准，勿臆造履历或内部细节。
 
-| Component | Role |
-|-----------|------|
-| `SegmentedControl` | Language toggle + project filters |
-| `NumberTicker` | Public metrics (e.g. 600+ OS4 Tokens) |
-| `TextReveal` | Hero positioning line |
-| `GridBackground` | Hero atmosphere |
-| `LogoMarquee` | Company strip |
-| `ToolCallCard` / `ToolCallGroup` | AI-workflow illustration |
-| `Button` | CTAs |
-| `ShimmerLoader` / `FilterMenu` | Available for extension |
+## 本地运行
 
-Closest local equivalents for **Pro** items (`Tilt Card`, `Gradient Text`, `Project Card`, App Shell): `src/components/TiltCard.tsx`, `GradientText.tsx`, and custom project cards / layout.
-
-## Content
-
-Source of truth (do not invent facts):
-
-- `content/content.json` — assembled from Notion + GitHub
-- `content/NOTES.md` — sources, uncertainties, confidentiality flags
-
-Editable site data (typed JSON derived from the source, with Allen’s publish rules applied):
-
-- `src/data/profile.json`
-- `src/data/experience.json` (performance ratings removed)
-- `src/data/projects.json`
-- `src/data/skills.json`
-- `src/data/repos.json` (`portfolio_worthy` only)
-- `src/data/metrics.json`
-- `src/data/companies.json`
-
-Publish rules encoded in the derived data:
-
-- Current role: Xiaomi HyperOS design system / design engineering (`2025–`)
-- No performance ratings (M+, SpotBonus, Kuaishou A, etc.)
-- Kuaishou period: `2022–2023`
-- Confidentiality: high-level only for internships / internal Xiaomi tooling; no internal Feishu links or OS5 mappings
-
-## Local development
+需要 Node.js 20+。
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open the URL Vite prints (default `http://localhost:5173`).
+浏览器打开 Vite 打印的地址（默认 `http://localhost:5173`）。
 
 ```bash
-npm run build   # output: dist/
-npm run preview # preview production build
+npm run build    # 类型检查 + 生产构建 → dist/
+npm run preview  # 本地预览生产构建
+npm run lint     # oxlint
 ```
 
-## Cloudflare Pages
+## 技术栈
 
-| Setting | Value |
-|---------|--------|
+- Vite + React 19 + TypeScript
+- Tailwind CSS v4
+- [affectUI](https://www.affectui.com/components) 免费组件（MIT，经 shadcn registry 安装）
+- React Router（SPA）
+
+## 内容与发布规则
+
+源数据（勿编造事实）：
+
+- `content/content.json` — 由 Notion + GitHub 汇总
+- `content/NOTES.md` — 来源、不确定项、保密标记
+
+站点可编辑数据（由源数据派生，并套用发布规则）：
+
+- `src/data/profile.json`
+- `src/data/experience.json`（已去掉绩效评级）
+- `src/data/projects.json`
+- `src/data/skills.json`
+- `src/data/repos.json`（仅 `portfolio_worthy`）
+- `src/data/metrics.json`
+- `src/data/companies.json`
+
+发布规则摘要：
+
+- 当前角色：小米 HyperOS 设计系统 / 设计工程（`2025–`）
+- 不展示绩效评级（M+、SpotBonus、快手 A 等）
+- 快手周期：`2022–2023`
+- 保密：实习 / 小米内部工具仅高阶描述；无内部飞书链接或 OS5 映射
+
+## 部署（Cloudflare Pages）
+
+| 项 | 值 |
+|----|-----|
 | Build command | `npm run build` |
 | Build output directory | `dist` |
-| Node version | 20+ recommended |
+| Node | 20+ |
 
-SPA fallback is included at `public/_redirects` (copied into `dist`):
+SPA 回退见 `public/_redirects`（会复制进 `dist`）：
 
 ```
 /*    /index.html   200
 ```
 
-## Scripts
+## 链接
 
-| Script | Description |
-|--------|-------------|
-| `npm run dev` | Dev server |
-| `npm run build` | Typecheck + production build → `dist` |
-| `npm run preview` | Serve `dist` locally |
-| `npm run lint` | oxlint |
-
-## Links
-
-- GitHub: https://github.com/xue7106211
-- Personal site: https://xyf.design
+- 生产 / 主页：https://xyf.design
+- GitHub：https://github.com/xue7106211
