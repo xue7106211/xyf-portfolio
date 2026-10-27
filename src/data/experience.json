@@ -1,0 +1,130 @@
+[
+  {
+    "id": "xiaomi-hyperos",
+    "company_zh": "小米 / HyperOS",
+    "company_en": "Xiaomi / HyperOS",
+    "role_zh": "设计系统 & 设计工程",
+    "role_en": "Design System & Design Engineering",
+    "period": "2025–",
+    "highlights_zh": [
+      "Design Token 中心化管理平台（hyperostoken.netlify.app），累计沉淀/管理 600+ OS4 Token",
+      "组件原子化：材质与内容分离；OS4 引入组件插槽（Slots）重构容器类组件",
+      "近手浮窗等组件交付算法级锚定规则，可交互 Demo（hyperos-popover.netlify.app）",
+      "Figma 插件：玻璃材质/混色模糊、HyperOS Material、图层语义化命名（预估百万 Node 级）",
+      "HyperOS 多端适配 Skill：Figma MCP + Agent，手机稿适配 Fold / Pad",
+      "Figma → AI → 飞书文档自动化理解设计/变量/组件规格",
+      "RAG 知识库 & 飞书机器人 HyperOSDesign（Mify 工作流）",
+      "AI-Native 工作流：Figma 组件到 Markdown 规格、设计稿转代码、Figma/MIUIX 组件命名表"
+    ],
+    "highlights_en": [
+      "Centralized Design Token platform (hyperostoken.netlify.app); 600+ OS4 tokens managed",
+      "Component atomization: separate material and content; OS4 slots for container components",
+      "Near-hand popover rules delivered at algorithm level with interactive demo",
+      "Figma plugins: glass/blur materials, HyperOS Material, semantic layer naming (estimated million-node scale)",
+      "Multi-device adaptation Skill via Figma MCP + Agent (phone → Fold / Pad)",
+      "Figma → AI → Feishu doc automation for specs/variables/components",
+      "RAG knowledge base & Feishu bot HyperOSDesign (Mify workflow)",
+      "AI-native workflow: Figma components to Markdown specs, design-to-code, Figma/MIUIX naming map"
+    ]
+  },
+  {
+    "id": "baidu-meux",
+    "company_zh": "百度 MEUX",
+    "company_en": "Baidu MEUX",
+    "role_zh": "体验设计 / 内容生态设计系统",
+    "role_en": "Experience Design / Content-Ecosystem Design System",
+    "period": "2023.06–",
+    "highlights_zh": [
+      "负责内容生态方向设计；涵盖百家号相关业务、百度 App 的 AI 发布器设计，以及百家号 Web 端设计系统建设与维护（xyf.design）",
+      "内容生态 Token 体系：基础层 / 语义层 / 组件层；多主题（SaaS 浅色、视频编辑器深色）",
+      "组件属性与代码 Props 对齐；Auto Layout 结构化；Instance Swap 插槽降低分离率",
+      "数字资产工程化：图标 SVG 化、px→em 脚本、语义命名、NPM 包（@baidu/icons）",
+      "工作流驱动文档：Figma 组件作信息索引，设计指南沉淀于企业文档，研发侧 Dumi API"
+    ],
+    "highlights_en": [
+      "Content-ecosystem design: Baijiahao-related work, Baidu App AI publisher, Baijiahao Web design system (xyf.design)",
+      "Content-ecosystem token system: base / semantic / component layers; multi-theme (SaaS light, video editor dark)",
+      "Aligned Figma properties with code props; structured Auto Layout; Instance Swap slots to reduce detach rate",
+      "Digital assets: SVG icons, px→em script, semantic names, NPM package (@baidu/icons)",
+      "Workflow-driven docs: Figma components as index; design guides in enterprise docs; Dumi APIs for eng"
+    ]
+  },
+  {
+    "id": "kuaishou-kid",
+    "company_zh": "快手 KID",
+    "company_en": "Kuaishou KID",
+    "role_zh": "设计中台 / 设计系统主 R",
+    "role_en": "Design Platform / Design System Lead (主 R)",
+    "period": "2022–2023",
+    "highlights_zh": [
+      "企业服务 Design System 主 R；服务 5+ 业务线、30+ 产品平台；覆盖 Vue2、Vue3、React",
+      "建设 38+ 基础组件；三级 Design Token；中心化 NPM Token Library；Klib × Figma 自动化维护",
+      "组件分离率 0.56%；文档选型 Supernova + Storybook",
+      "设计工程化、设计效能、DesignOps（Sketch→Figma 等工作流）"
+    ],
+    "highlights_en": [
+      "Lead (主 R) for enterprise Design System; 5+ business lines, 30+ product platforms; Vue2/Vue3/React",
+      "38+ base components; 3-tier Design Tokens; centralized NPM Token Library; Klib × Figma automation",
+      "Component detach rate 0.56%; docs via Supernova + Storybook",
+      "Design engineering, efficiency tooling, DesignOps (incl. Sketch→Figma workflows)"
+    ]
+  },
+  {
+    "id": "bytedance-feishu-lark",
+    "company_zh": "字节跳动 · 飞书",
+    "company_en": "ByteDance · Feishu / Lark",
+    "role_zh": "用户体验设计师",
+    "role_en": "UX Designer",
+    "period": "2019.10–2021",
+    "highlights_zh": [
+      "飞书任务业务主设计：MVP 2020.12；1.0 2021.1–4；2.0 2021.5–6；PC/Mobile/iPad 三端",
+      "飞书第一版 DS（Universe Design）官网；贡献组件与规范（含快捷键、Pointer、触控板、iPadOS 快捷键等 4 篇规范）",
+      "飞书 5.0（IG）：参与信息架构（周陟、丘陵、依晨、兆元、孙健、薛一飞）；任务与日历深色模式；卡片化；研发交付分类",
+      "Design Thinking 工作坊：沉淀 20+ 设计方法工具包、Design Work Shop 101；选入 Lark 品质手册",
+      "iPadOS 专项核心参与者：四篇规范；App Store 推荐并登上苹果发布会（团队结果）"
+    ],
+    "highlights_en": [
+      "Feishu Task lead design: MVP 2020.12; 1.0 Jan–Apr 2021; 2.0 May–Jun 2021; PC/Mobile/iPad",
+      "First Universe Design website; contributed components/specs (shortcuts, Pointer, trackpad, iPadOS shortcuts—4 specs)",
+      "Feishu 5.0 (IG): information architecture co-author; Task/Calendar dark mode; card UI; eng handoff taxonomy",
+      "Design Thinking workshops: 20+ method toolkit, Design Work Shop 101; included in Lark quality handbook",
+      "iPadOS program core member: four specs; App Store feature and Apple event appearance (team outcome)"
+    ]
+  },
+  {
+    "id": "microsoft-research-asia",
+    "company_zh": "微软亚洲研究院",
+    "company_en": "Microsoft Research Asia",
+    "role_zh": "用户体验设计实习生",
+    "role_en": "UX Design Intern",
+    "period": "2019",
+    "highlights_zh": [
+      "项目：从语义文本智能转换到 Infographic（Text-to-Viz 相关）",
+      "定义智能设计模型与设计模式；探索设计师与研发的通用描述语言",
+      "因项目保密，细节未公开"
+    ],
+    "highlights_en": [
+      "Semantic text → Infographic product/service (related to Text-to-Viz)",
+      "Defined high-level intelligent design model and patterns; shared description language with eng",
+      "Details withheld due to confidentiality"
+    ]
+  },
+  {
+    "id": "ibm-client-experience-innovation-center",
+    "company_zh": "IBM 客户体验与创新中心",
+    "company_en": "IBM Client Experience & Innovation Center",
+    "role_zh": "用户体验设计实习生",
+    "role_en": "UX Design Intern",
+    "period": "2018 Summer",
+    "highlights_zh": [
+      "18 周企业客户早期概念探索；UX 研究与设计；Design Thinking 工作坊",
+      "获得 Enterprise Design Thinking Practitioner & Co-Creator Badge",
+      "因 NDA 无法分享具体产品细节"
+    ],
+    "highlights_en": [
+      "18-week early-stage concept for enterprise clients; UX research/design; Design Thinking workshops",
+      "Earned Enterprise Design Thinking Practitioner & Co-Creator badges",
+      "Specific product details withheld under NDA"
+    ]
+  }
+]

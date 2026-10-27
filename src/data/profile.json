@@ -1,0 +1,31 @@
+{
+  "name_zh": "薛一飞",
+  "name_en": "Yifei (Allen) Xue",
+  "alias": [
+    "薛困惑",
+    "Allen"
+  ],
+  "tagline_zh": "产品设计师，设计系统建设者，设计工程师",
+  "tagline_en": "Product Designer, Design System Builder, Design Engineer",
+  "bio_zh": "拥有产品与体验设计背景，设计生涯从视觉传达开始，研究生阶段转入交互设计；曾在 IBM、Microsoft 做体验设计实习，校招加入字节跳动飞书，再到快手做设计系统，并于百度 MEUX 负责内容生态设计系统；现于小米 HyperOS 设计系统与设计工程方向工作。创造力是人生意义的一部分，即使曾在现实中受挫，我始终努力守护它。",
+  "bio_en": "With a product and experience design background—starting in visual communication and shifting to interaction design in graduate school—interned at IBM and Microsoft, joined ByteDance Feishu via campus recruiting, built design systems at Kuaishou, and worked on the content-ecosystem design system at Baidu MEUX. Currently focused on Xiaomi HyperOS design system and design engineering. Creativity is part of life’s meaning; even after setbacks in reality, I keep guarding it.",
+  "positioning_zh": "写代码的设计师——Token、组件库、Figma 插件、设计转代码与 AI Agent 工作流。",
+  "positioning_en": "A designer who ships code — tokens, component libraries, Figma plugins, design-to-code, and AI agent workflows.",
+  "links": [
+    {
+      "label": "Personal site",
+      "url": "https://xyf.design"
+    },
+    {
+      "label": "GitHub",
+      "url": "https://github.com/xue7106211"
+    },
+    {
+      "label": "Douban",
+      "url": "https://www.douban.com/people/52282329/"
+    }
+  ],
+  "current_role_zh": "小米 / HyperOS · 设计系统 & 设计工程",
+  "current_role_en": "Xiaomi / HyperOS · Design System & Design Engineering",
+  "current_period": "2025–"
+}

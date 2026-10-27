@@ -1,0 +1,31 @@
+[
+  {
+    "value": 600,
+    "suffix": "+",
+    "label_zh": "OS4 Tokens",
+    "label_en": "OS4 Tokens",
+    "source": "HyperOS Token platform"
+  },
+  {
+    "value": 38,
+    "suffix": "+",
+    "label_zh": "基础组件",
+    "label_en": "Base components",
+    "source": "Kuaishou DS"
+  },
+  {
+    "value": 30,
+    "suffix": "+",
+    "label_zh": "产品平台",
+    "label_en": "Product platforms",
+    "source": "Kuaishou DS"
+  },
+  {
+    "value": 0.56,
+    "suffix": "%",
+    "label_zh": "组件分离率",
+    "label_en": "Detach rate",
+    "source": "Kuaishou DS",
+    "decimals": 2
+  }
+]
