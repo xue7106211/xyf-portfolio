@@ -52,7 +52,6 @@ export function Hero() {
             </a>
           </div>
 
-          <p className="hero__bio">{pick(profile, 'bio_zh', 'bio_en')}</p>
           <p className="hero__aka sr-only">
             {lang === 'zh' ? '又名' : 'Also known as'} {profile.alias.join(' / ')}
           </p>

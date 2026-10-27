@@ -206,11 +206,11 @@ img {
 .hero__content {
   max-width: var(--max);
   margin: 0 auto;
-  padding: clamp(2.5rem, 8vh, 5rem) 1.25rem 3rem;
+  padding: clamp(2rem, 6vh, 3.5rem) 1.25rem 2.5rem;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  gap: 1.1rem;
+  justify-content: flex-start;
+  gap: 1rem;
 }
 
 .hero__eyebrow {
@@ -271,11 +271,15 @@ img {
   text-decoration: none;
 }
 
-.hero__bio {
-  margin: 0.75rem 0 0;
+.about-strip {
   max-width: 42rem;
+}
+
+.about-strip p {
+  margin: 0;
   color: var(--muted);
-  font-size: 0.98rem;
+  font-size: 1.02rem;
+  line-height: 1.65;
 }
 
 .page-stack {
