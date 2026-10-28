@@ -1,6 +1,8 @@
 # 薛一飞设计工程作品集
 
-**状态：** 活跃 · 生产主页：[https://xyf.design](https://xyf.design)
+**状态：** 实验 · 未部署
+
+正式站 [https://xyf.design](https://xyf.design) 在 Framer 上维护；本仓库是用代码重做的版本，用来展示设计工程能力。
 
 Allen Xue（薛一飞）的个人作品集站点：面向招聘方与设计工程同行，展示 design systems / design engineering 相关作品与经历。
 
@@ -13,6 +15,7 @@ Allen Xue（薛一飞）的个人作品集站点：面向招聘方与设计工�
 | 个人作品集（中英双语） | 设计系统或组件库产品本身 |
 | 静态前端站点（Vite SPA） | 后端服务、CMS、或内容管理后台 |
 | 公开可部署的展示页 | 内部工具、私有文档站 |
+|  | 线上 xyf.design 的源码 |
 
 事实与可发布范围以 `content/` 与 `src/data/` 为准，勿臆造履历或内部细节。
 
@@ -80,5 +83,5 @@ SPA 回退见 `public/_redirects`（会复制进 `dist`）：
 
 ## 链接
 
-- 生产 / 主页：https://xyf.design
+- 正式站（Framer）：https://xyf.design
 - GitHub：https://github.com/xue7106211
